@@ -1,0 +1,38 @@
+.btn {
+    cursor: pointer;
+    border-radius: 2rem;
+    padding: 5px 20px;
+}
+
+.btn-grp {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-two {
+    font-size: 1.5rem;
+    color: black;
+    background-color: red;
+}
+
+.btn-one {
+    font-size: 1.5rem;
+    color: white;
+    background-color: transparent;
+    background-color: blue;
+    margin-left: 10px;
+}
+
+.btn-start {
+    font-size: 1.5rem;
+    color: black;
+    background-color: red;
+}
+
+.d-flex {
+    display: flex;
+}
+
+button {
+    border: 0px;
+}
